@@ -13,5 +13,11 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+        //hello
+    }
+
+    public void send(){
+        int i = 1;
+        System.out.println(i);
     }
 }
